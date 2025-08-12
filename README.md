@@ -26,8 +26,6 @@ This project includes a fully custom MVC framework built from scratch using obje
 ---
 
 ## 🛠 Folder Structure
-
-## 🛠 Folder Structure
 ``` 
 /
 ├── app/
